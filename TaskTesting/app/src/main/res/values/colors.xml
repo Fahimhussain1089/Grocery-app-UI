@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#1C5F03</color>
+    <color name="brown">#FC4E0904</color>
+
+    <color name="primary_orange">#D2691E</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="bottom_nav_color">#6B6A6A</color>
+    <color name="bottom_nav_selected">#D2691E</color>
+    <color name="indigo">#031978</color>
+    <color name="bottom_nav_unselected">#808080</color>
+
+    <!-- Orange color palette -->
+    <color name="orange_500">#FF9800</color>       <!-- Primary orange -->
+    <color name="orange_200">#FFCC80</color>       <!-- Lighter orange -->
+    <color name="deep_orange_400">#FF7043</color>   <!-- Secondary color -->
+    <color name="deep_orange_200">#FFAB91</color>
+
+
+    <color name="orange_700">#F57C00</color>  <!-- Darker orange -->
+
+
+</resources>

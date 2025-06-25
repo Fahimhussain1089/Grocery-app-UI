@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TaskTesting" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/orange_500</item>
+        <item name="colorPrimaryVariant">@color/orange_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Toolbar/AppBar colors -->
+        <item name="android:navigationBarColor">@color/orange_500</item>
+        <item name="android:statusBarColor">@color/orange_700</item>
+<!--        <item name="materialToolbarStyle">@style/Widget.TaskTesting.Toolbar</item>-->
+    </style>
+
+    <!-- Custom Toolbar style -->
+    <style name="Widget.TaskTesting.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="titleTextColor">@color/white</item>
+        <item name="subtitleTextColor">@color/white</item>
+        <item name="android:background">@color/orange_500</item>
+    </style>
+</resources>
+<!--
+<resources xmlns:tools="http://schemas.android.com/tools">
+    &lt;!&ndash; Base application theme. &ndash;&gt;
+    <style name="Base.Theme.TaskTesting" parent="Theme.Material3.DayNight.NoActionBar">
+        &lt;!&ndash; Customize your dark theme here. &ndash;&gt;
+        &lt;!&ndash; <item name="colorPrimary">@color/my_dark_primary</item> &ndash;&gt;
+    </style>
+</resources>-->
